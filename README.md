@@ -1,6 +1,6 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9a3cf380-53f1-48f6-8b75-7249c49520b4" /># 📊 Stock Market Analysis Dashboard
+# 🚀Stock Market Analysis Dashboard
 
-🚀 A data-driven Power BI dashboard to analyze stock market performance, risk, and trends for better investment decision-making.
+A data-driven Power BI dashboard to analyze stock market performance, risk, and trends for better investment decision-making.
 
 ---
 
@@ -63,6 +63,14 @@ This project aims to analyze historical stock data of NIFTY-50 companies to:
 * Certain sectors (like Financial Services) dominate market activity
 * There is a significant gap between best and worst-performing stocks
 * Risk-return tradeoff is clearly visible across stocks
+
+---
+
+📷 Dashboard Preview
+<img width="1359" height="728" alt="Screenshot 2026-04-08 235306" src="https://github.com/user-attachments/assets/405bc1ba-a5a5-42b8-bf80-a9d09c8698b8" />
+<img width="1366" height="728" alt="Screenshot 2026-04-08 235339" src="https://github.com/user-attachments/assets/3358037c-6e49-49a1-859d-a0f3d04f6d49" />
+<img width="1366" height="727" alt="Screenshot 2026-04-08 235410" src="https://github.com/user-attachments/assets/1c961d5d-c6ce-4ad3-8c3a-ff98465e7f8d" />
+
 
 ---
 
